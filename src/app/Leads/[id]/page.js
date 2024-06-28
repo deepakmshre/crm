@@ -54,7 +54,6 @@ const LeadDetails = ({ params }) => {
                         </div>
                         <div className='lead-header bg-white p-3'>
                             <div className="top-lead-menu">
-                                <ScrollableTabsButtonForce lead={lead} activityLog={activityLog} />
                             </div>
 
 
