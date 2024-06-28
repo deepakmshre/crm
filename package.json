@@ -61,7 +61,15 @@
     "sass": "^1.69.7",
     "twilio": "^5.0.1",
     "winston": "^3.11.0",
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.18.5",
+    "react-accessible-accordion": "^5.0.0",
+    "react-date-range": "^2.0.1",
+    "react-datepicker": "^7.1.0",
+    "react-icons": "^5.2.1",
+    "react-multi-select-component": "^4.3.4",
+    "react-number-format": "^5.3.4",
+    "rsuite": "^5.64.0",
+    "sweetalert2": "^11.12.0"
   },
   "devDependencies": {
     "eslint": "^8",
