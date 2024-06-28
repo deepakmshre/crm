@@ -3,7 +3,6 @@ import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import RootLayout from '@/app/components/layout';
-import ScrollableTabsButtonForce from '@/app/components/Tabs';
 
 const LeadDetails = ({ params }) => {
     const id = params?.id;
